@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lively-treacle-002fbf.netlify.app/sitemap.xml
